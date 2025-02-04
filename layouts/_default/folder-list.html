@@ -1,0 +1,6 @@
+{{ range .Site.GetMatch "/*" }}
+  {{ .RelPermalink }}
+  {{ range .Site.GetMatch (printf "%s/*" .RelPermalink) }}
+    {{ .RelPermalink }}
+  {{ end }}
+{{ end }}

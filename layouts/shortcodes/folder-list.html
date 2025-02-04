@@ -1,0 +1,6 @@
+{{ range where $.Site.Pages "Section" "==" "docs" }}
+  {{ .RelPermalink }}
+  {{ range where $.Site.Pages "Section" "==" (printf "%s" .Section) }}
+    {{ .RelPermalink }}
+  {{ end }}
+{{ end }}

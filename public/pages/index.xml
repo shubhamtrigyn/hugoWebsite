@@ -6,8 +6,15 @@
     <description>Recent content in Pages on My Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jan 2025 15:56:41 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 19:30:21 +0530</lastBuildDate>
     <atom:link href="//localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Pages</title>
+      <link>//localhost:1313/pages/new-pages/</link>
+      <pubDate>Tue, 04 Feb 2025 19:30:21 +0530</pubDate>
+      <guid>//localhost:1313/pages/new-pages/</guid>
+      <description></description>
+    </item>
     <item>
       <title>My First page</title>
       <link>//localhost:1313/pages/my-first-page/</link>

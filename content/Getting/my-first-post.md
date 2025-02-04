@@ -1,7 +1,7 @@
 +++
 date = '2025-01-29T15:56:41+05:30'
 draft = true
-title = 'My First Tag'
+title = 'My First Post'
 +++
 ## Introduction
 
